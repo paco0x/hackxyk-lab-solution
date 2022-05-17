@@ -49,13 +49,13 @@ module.exports = {
         }
       },
     ],
-    
+
   },
 
   networks: {
     hardhat: {
       forking: {
-        url: "https://eth-mainnet.alchemyapi.io/v2/REPLACEME", // ONLY EDIT THIS LINE
+        url: "https://eth-mainnet.alchemyapi.io/v2/iAHwO4-koDDdXeemLhT-4i8jsx8phFnb", // ONLY EDIT THIS LINE
         blockNumber: 14584692
       },
       initialBaseFeePerGas: 0,
